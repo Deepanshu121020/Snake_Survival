@@ -1,0 +1,10 @@
+
+
+body {
+    background-image: url('snake.png');
+    background-position: calc(100% - 1px) calc(100% - 1px); /* 20px offset from bottom-right */
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+
